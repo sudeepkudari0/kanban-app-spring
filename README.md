@@ -18,6 +18,9 @@ Make sure you have the following software installed on your machine:
 - Navigate to /frontend for frontend-specific instructions.
 - Explore /backend for Spring Boot backend-specific instructions.
 
+### Screenshots
+<img src="https://raw.github.com/sudeepkudari0/kanban-app-node/main/backend/Screenshot from 2023-11-20 11-15-01.png"/>
+
 ### Contributing
 If you'd like to contribute to this project, please follow these steps:
 
